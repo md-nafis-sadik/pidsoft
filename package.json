@@ -2,7 +2,7 @@
   "name": "pidsoft",
   "private": true,
   "version": "0.0.0",
-  "homepage": ".",
+  "homepage": "https://md-nafis-sadik.github.io/pidsoft/",
   "type": "module",
   "scripts": {
     "dev": "vite",
